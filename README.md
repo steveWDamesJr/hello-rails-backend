@@ -2,7 +2,7 @@
 
 # Hello-Rails-Backend
 
-This app uses a React front-end and combines it with a Rails back-end to display a random message. 
+This app uses a Rails back-end as an API to display a random greeting message
 
 Enjoy your Greeting!
 
