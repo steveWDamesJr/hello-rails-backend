@@ -6,6 +6,10 @@ This app uses a React front-end and combines it with a Rails back-end to display
 
 Enjoy your Greeting!
 
+## Link to REACT FRONTEND
+
+[REACT FRONTEND](https://github.com/steveWDamesJr/hello-react-front-end)
+
 ## Built With
 
 - Ruby: version 3.02
