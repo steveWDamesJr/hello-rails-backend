@@ -6,6 +6,10 @@ This app uses a Rails back-end as an API to display a random greeting message
 
 Enjoy your Greeting!
 
+## Link to REACT FRONTEND
+
+[REACT FRONTEND](https://github.com/steveWDamesJr/hello-react-front-end)
+
 ## Built With
 
 - Ruby: version 3.02
